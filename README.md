@@ -2,3 +2,5 @@
 Template project repository for DSCI-100
 
 This is a second line I've aded locally
+
+This a small change
